@@ -15,7 +15,7 @@ idna==2.6
 inexactsearch==1.0.2
 ipaddress==1.0.17
 itsdangerous==1.1.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 joblib==0.14.1
 keyring==10.6.0
 keyrings.alt==3.0
