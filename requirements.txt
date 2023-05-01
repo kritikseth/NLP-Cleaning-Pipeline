@@ -6,7 +6,7 @@ contractions==0.0.25
 docopt==0.6.2
 emoji==0.5.4
 enum34==1.1.6
-Flask==1.1.2
+Flask==2.3.2
 gunicorn==19.10.0
 html2text==2019.8.11
 html5lib==1.0.1
